@@ -1,5 +1,6 @@
 # 1. Giới thiệu về Postman
-Postman là một ứng dụng và nền tảng API client được sử dụng rộng rãi để thiết kế, xây dựng, kiểm thử và tài liệu hóa APIs. Nó cung cấp một giao diện đơn giản và trực quan cho phép các nhà phát triển dễ dàng tương tác với các API, mà không cần phải viết nhiều mã. Dưới đây là một số tính năng chính của Postman:
+Postman là một ứng dụng và nền tảng API client được sử dụng rộng rãi để thiết kế, xây dựng, kiểm thử và tài liệu hóa APIs. Nó cung cấp một giao diện đơn giản và trực quan cho phép các nhà phát triển dễ dàng tương tác với các API, mà không cần phải viết nhiều mã.
+# Dưới đây là một số tính năng chính của Postman:
 
  - Tạo yêu cầu HTTP: Postman cho phép bạn tạo các yêu cầu HTTP với nhiều phương thức khác nhau (GET, POST, PUT, DELETE, v.v.). Bạn có thể nhập URL API, thêm header, body và các tham số yêu cầu.expand_more
  - Gửi yêu cầu và xem phản hồi: Postman cho phép bạn gửi các yêu cầu HTTP đến API và xem phản hồi.expand_more Bạn có thể xem mã trạng thái HTTP, header, body và nội dung phản hồi.expand_more
