@@ -9,4 +9,5 @@ Postman là một ứng dụng và nền tảng API client được sử dụng 
   - Quản lý môi trường: Postman cho phép bạn quản lý nhiều môi trường API khác nhau.expand_more Điều này giúp bạn dễ dàng kiểm thử API trong các môi trường khác nhau (ví dụ: phát triển, thử nghiệm, sản xuất).expand_more
  - Tự động hóa: Postman cung cấp các tính năng tự động hóa giúp bạn tự động hóa các tác vụ kiểm thử API.expand_more
  - Bảo mật: Postman hỗ trợ các tính năng bảo mật như xác thực và ủy quyền.
+ 
   Giao diện overview
